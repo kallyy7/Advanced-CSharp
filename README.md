@@ -1,6 +1,6 @@
 <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p>
 
-# <a href="https://softuni.bg/trainings/1826/programming-basics-with-csharp-january-2018" rel="Programming-Basics"><p align="center"> Programming-Basics <p></a>
+# <a href=""><p align="center"> Advanced C# <p></a>
 
 ## PROGRAM
 <table>
