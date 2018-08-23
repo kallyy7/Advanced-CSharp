@@ -51,32 +51,17 @@
             if (otherIndex == row || otherIndex - row == -1)
             {
                 distance = column - 64;
+                return distance;
             }
-            else if (otherIndex - row > 0)
+            diffRows = (otherIndex - row > 0)? diffRows+= 1: diffRows -= 2;
+       
+            if (diffRows % 2 == 0)
             {
-                diffRows += 1;
-
-                if (diffRows % 2 == 0)
-                {
-                    distance = diffRows * (parkingRowsAndColls[1] + 3) + column - 64;
-                }
-                else
-                {
-                    distance = diffRows * (parkingRowsAndColls[1] + 3) + parkingRowsAndColls[1] - (column - 65);
-                }
+                distance = diffRows * (parkingRowsAndColls[1] + 3) + column - 64;
             }
             else
             {
-                diffRows -= 2;
-
-                if (diffRows % 2 == 0)
-                {
-                    distance = diffRows * (parkingRowsAndColls[1] + 3) + column - 64;
-                }
-                else
-                {
-                    distance = diffRows * (parkingRowsAndColls[1] + 3) + parkingRowsAndColls[1] - (column - 65);
-                }
+                distance = diffRows * (parkingRowsAndColls[1] + 3) + parkingRowsAndColls[1] - (column - 65);
             }
             return distance;
         }
