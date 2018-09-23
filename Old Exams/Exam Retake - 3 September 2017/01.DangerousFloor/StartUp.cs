@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace DangerousFloor
+﻿namespace DangerousFloor
 {
     using System;
     using System.Linq;

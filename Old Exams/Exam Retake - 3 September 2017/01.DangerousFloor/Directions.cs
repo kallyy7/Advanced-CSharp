@@ -54,8 +54,7 @@
 
         public virtual bool ValidOnceMove(int[] futurePosition)
         {
-            if (futurePosition[0] == this.position[0] - 1 ||
-                futurePosition[0] == this.position[0] - 2)
+            if (futurePosition[0] == this.position[0] - 1)
             {
                 return true;
             }
