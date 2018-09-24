@@ -18,9 +18,10 @@ public class StartUp
                 .Split()
                 .Select(int.Parse)
                 .ToArray();
-            for (int c = 0; c < matrix.GetLength(1); c++)
+
+            for (int col = 0; col < matrix.GetLength(1); col++)
             {
-                matrix[row, c] = inputRow[c];
+                matrix[row, col] = inputRow[col];
             }
         }
 
@@ -34,6 +35,5 @@ public class StartUp
             }
             Console.WriteLine(sum);
         }
-
     }
 }

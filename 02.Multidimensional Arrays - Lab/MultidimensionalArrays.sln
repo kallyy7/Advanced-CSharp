@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.PrimaryDiagonal", "06.Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SymbolInMatrix", "07.SymbolInMatrix\07.SymbolInMatrix.csproj", "{4C999C5E-90FA-4003-A00D-C2C96A269E56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.SquareWithMaximumSum", "08.SquareWithMaximumSum\08.SquareWithMaximumSum.csproj", "{A36A743A-30FB-47D4-B4D7-830486B76DCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.JaggedArrayModification", "08.JaggedArrayModification\08.JaggedArrayModification.csproj", "{00515E63-9329-4183-B64F-8D36EF5AC262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{4C999C5E-90FA-4003-A00D-C2C96A269E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C999C5E-90FA-4003-A00D-C2C96A269E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C999C5E-90FA-4003-A00D-C2C96A269E56}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A36A743A-30FB-47D4-B4D7-830486B76DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A36A743A-30FB-47D4-B4D7-830486B76DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A36A743A-30FB-47D4-B4D7-830486B76DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A36A743A-30FB-47D4-B4D7-830486B76DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00515E63-9329-4183-B64F-8D36EF5AC262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00515E63-9329-4183-B64F-8D36EF5AC262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00515E63-9329-4183-B64F-8D36EF5AC262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00515E63-9329-4183-B64F-8D36EF5AC262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>_08.SquareWithMaximumSum</RootNamespace>
+    <RootNamespace>_08.JaggedArrayModification</RootNamespace>
   </PropertyGroup>
 
 </Project>
