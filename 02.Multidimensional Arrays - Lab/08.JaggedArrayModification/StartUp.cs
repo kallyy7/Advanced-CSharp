@@ -32,26 +32,20 @@ public class StartUp
             if (row < 0 || row >= matrix.GetLength(0) ||
                 col < 0 || col >= matrix.GetLength(1))
             {
-                Console.WriteLine("Invalid coordinates");
-           
+                Console.WriteLine("Invalid coordinates");          
             }
             else
             {
                 switch (inputCommand[0])
                 {
-                    case "Add":
-                  
-
+                    case "Add":                 
                         matrix[row, col] += value;
                         break;
-                    case "Subtract":
-                    
-
+                    case "Subtract":                   
                         matrix[row, col] -= value;
                         break;
                 }
             }
-
             inputCommand = Console.ReadLine()
                 .Split();
         }

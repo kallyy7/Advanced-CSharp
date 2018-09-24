@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class PascalTriangle
+public class StartUp
 {
     public static void Main()
     {

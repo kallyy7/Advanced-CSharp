@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-public class MaximumSum
+public class StartUp
 {
     public static void Main()
     {
