@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text.RegularExpressions;
 
 public class StartUp
@@ -11,10 +12,8 @@ public class StartUp
 
         string patternTicket = @"((?<opener>\[)|{)(?(opener)[^\[\]]*?|[^{}]*?)(?(opener){|\[)" + location +
         @"(?(opener)}|\])(?(opener)[^\[\]]*?|[^{}]*?)(?(opener){|\[)(?<seat>[A-Z][0-9]{1,2})(?(opener)}|\])(?(opener)[^\[\]]*?|[^{}]*?)(?(opener)\]|})";
-        List<string> seats = new List<string>();
-
         MatchCollection ticketMatch = Regex.Matches(content, patternTicket);
-        int counter = 0;
+        List<string> seats = new List<string>();
 
         foreach (Match match in ticketMatch)
         {
@@ -22,10 +21,9 @@ public class StartUp
             {
                 string currentSeat = match.Groups[3].ToString();
 
-                if (counter < 2)
+                if (seats.Count < 2)
                 {
                     seats.Add(currentSeat);
-                    counter++;
                 }
                 else
                 {
