@@ -34,7 +34,8 @@ public class StartUp
                         Match matchRowSeat = Regex.Match(seat, rowPattern);
                         Match matchRowCurrentSeat = Regex.Match(currentSeat, rowPattern);
 
-                        if (matchRowSeat.Groups[1].ToString() == matchRowCurrentSeat.Groups[1].ToString())
+                        if (matchRowSeat.Groups[1].ToString() == matchRowCurrentSeat.Groups[1].ToString() &&
+                            seat != currentSeat)
                         {
                             if (seats[seats.Count - 1] == seat)
                             {
