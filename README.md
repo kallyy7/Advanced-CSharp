@@ -23,7 +23,7 @@
     <td>3</td>
     <th>STREAMS</th>
     <td><a href="" >-</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="" >-</a></td>
 </tr>
 </tr>
   <tr>
@@ -31,11 +31,5 @@
     <th>FUNCTIONAL PROGRAMMING</th>
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Lab" >LINK</a></td>
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Exercises" >LINK</a></td>
-</tr>
-<tr>
-  <td>5</td>
-    <th>LAB SUBMISSION - BASHSOFT</th>
-    <td><a href="" >-</a></td>
-    <td><a href="" >LINK</a></td>
 </tr>
   </table>
