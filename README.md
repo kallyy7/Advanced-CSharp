@@ -38,7 +38,7 @@
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Lab" >LINK</a></td>
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Exercises" >LINK</a></td>
 </tr>
-  </table>
-##  <a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/Old%20Exams" > OLD EXAMS </a>
+</table>
+## <a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/Old%20Exams"><p align="center"> OLD EXAMS <p></a>
 - <a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/Old%20Exams/Exam%20Retake%20-%203%20September%202017" > Exam Retake - 3 September 2017 </a>
-- <a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/Old%20Exams/CSharp-Advanced%20Exam%20Retake%2024%20%D0%90pril%202018" > CSharp-Advanced Exam Retake 24 Аpril 2018</a>
+and <a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/Old%20Exams/CSharp-Advanced%20Exam%20Retake%2024%20%D0%90pril%202018" > CSharp-Advanced Exam Retake 24 Аpril 2018</a>
