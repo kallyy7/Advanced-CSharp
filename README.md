@@ -19,15 +19,21 @@
   <th>MULTIDIMENSIONAL ARRAYS</th>
   <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/02.Multidimensional%20Arrays%20-%20Lab" >LINK</a></td>
   <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/02.Multidimensional%20Arrays%20-%20Exercises" >LINK</a></td>
-<tr>
+  <tr>
     <td>3</td>
+    <th>SETS AND DICTIONARIES ADVANCED</th>
+    <td><a href="" >LINK</a></td>
+    <td><a href="" >LINK</a></td>
+</tr>
+<tr>
+    <td>4</td>
     <th>STREAMS</th>
     <td><a href="" >-</a></td>
     <td><a href="" >-</a></td>
 </tr>
 </tr>
   <tr>
-  <td>4</td>
+  <td>5</td>
     <th>FUNCTIONAL PROGRAMMING</th>
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Lab" >LINK</a></td>
     <td><a href="https://github.com/kallyy7/Advanced-CSharp/tree/master/03.Functional%20Programming%20-%20Exercises" >LINK</a></td>
