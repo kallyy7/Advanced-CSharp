@@ -3,7 +3,7 @@
 # <a href=""><p align="center"> Advanced C# :mortar_board:<p></a>
 ## <a href="https://softuni.bg/certificates/details/57991/f8a630f3" ><p align="center">:star2:  CERTIFICATE :star2:<p></a>
 
-## PROGRAM
+## :rocket:PROGRAM
 <table>
 <tr>
   <th></th><th>:books: Lection</th><th>:computer: Lab</th><th>:pencil: Exercise</th>
@@ -41,7 +41,7 @@
 </table>
 
 
-## OLD EXAMS
+## :rocket:OLD EXAMS
 <table>
 <tr>
   <th></th><th>:books: Exam</th><th>:computer: Solution</th>
